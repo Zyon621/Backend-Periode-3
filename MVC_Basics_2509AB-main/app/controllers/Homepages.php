@@ -21,4 +21,5 @@ class Homepages extends BaseController
         $this->view('homepages/index', $data);
     }
 
+    
 }
